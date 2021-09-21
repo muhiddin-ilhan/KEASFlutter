@@ -1,5 +1,5 @@
 // import 'package:flutter_background_geolocation/flutter_background_geolocation.dart' as bg;
-
+// Burayı Aç
 // class BackgroundServiceIOS {
 
 //   Future initialize(int userId, int taskId, int truckId, int relationId) async {
